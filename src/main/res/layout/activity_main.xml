@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
-        android:background="#E0F7/Users/skryshtafovych/Desktop/MainActivity.javaFA">
+        android:background="#E0F7rFA">
 
         <TextView android:text="Mothership Degree"
 
